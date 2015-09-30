@@ -18,7 +18,7 @@ With plugin
 
 ## FAQs
 
-##### Was this plugin's code stringently reviewed by a series of industry vetrens?
+##### Was this plugin's code stringently reviewed by a series of industry veterans?
 No.
 
 ##### Then how do I know this plugin won't steal all my secret GIFs, crash my computer and cost me my mortgage?
