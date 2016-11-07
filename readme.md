@@ -2,7 +2,7 @@
 
 Giphy dominates search results for GIFs, but they show a static image to try to get you to use their platform. This fixes that.
 
-[Install](https://chrome.google.com/webstore/detail/jchaddoianhemdghmingbloolmheklff/publish-accepted?hl=en-US&gl=US)
+[Install](https://chrome.google.com/webstore/detail/make-giphy-great-again/jchaddoianhemdghmingbloolmheklff)
 
 ## Demo
 
