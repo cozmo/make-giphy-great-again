@@ -1,6 +1,8 @@
-# Giphy Be Better Plz
+# Make Giphy Great Again
 
-Giphy images dominate animated gif search results. Sadly Giphy has made the decision to fill the results with non animated versions of their gifs in a poor attempt to get people to use their platform. This plugin fixes that.
+Giphy dominates search results for GIFs, but they show a static image to try to get you to use their platform. This fixes that.
+
+[Install](https://chrome.google.com/webstore/detail/jchaddoianhemdghmingbloolmheklff/publish-accepted?hl=en-US&gl=US)
 
 ## Demo
 
@@ -18,14 +20,11 @@ With plugin
 
 ## FAQs
 
-##### Was this plugin's code stringently reviewed by a series of industry veterans?
+##### Was this code stringently reviewed by a series of industry veterans?
 No.
 
 ##### Then how do I know this plugin won't steal all my secret GIFs, crash my computer and cost me my mortgage?
-[¯\\\_(ツ)\_/¯ ](https://github.com/templaedhel/giphy-be-better-plz/blob/master/background.js)
-
-##### How do I install your this extension?
-[Download from here](https://github.com/templaedhel/giphy-be-better-plz/blob/master/giphy-be-better-plz.crx?raw=true) and then drag and drop it onto the chrome extensions page at `chrome://extensions`.
+[¯\\\_(ツ)\_/¯ ](https://github.com/cozmo/make-giphy-great-again/blob/master/background.js)
 
 ##### Why does this plugin need access to all my data on Giphy.com?!
 ...
